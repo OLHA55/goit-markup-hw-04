@@ -30,7 +30,7 @@ img {
 }
 .container {
   width: 1158px;
-  padding: 0 15px;
+
   margin: 0 auto;
 }
 .header-container {
@@ -155,7 +155,7 @@ button.hero-button {
 }
 .particularrity-container {
   box-sizing: border-box;
-  margin: 0 15px;
+
   margin: 0 auto;
 }
 .particularrity-title,
