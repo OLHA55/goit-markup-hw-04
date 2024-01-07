@@ -474,7 +474,6 @@ button.hero-button {
 .footer-logo {
   margin-left: 15px;
   flex-direction: column;
-  margin-right: 120px;
 }
 .footer-logo-link {
   display: inline-block;
@@ -505,6 +504,9 @@ button.hero-button {
   letter-spacing: 0.02em;
   width: 264px;
   box-sizing: border-box;
+}
+.footer-icon {
+  margin-left: 120px;
 }
 .footer-social {
   display: flex;
