@@ -529,7 +529,7 @@ button.hero-button {
   fill: #f4f4fd;
 }
 .social-icon-link:hover,
-.social-icon-link {
+.social-icon-link:focus {
   background-color: #31d0aa;
 }
 .footer-icon-text {
