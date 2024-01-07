@@ -398,7 +398,7 @@ button.hero-button {
   padding: 40px 32px;
 
   color: var(--CLOUD, #f4f4fd);
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 
@@ -473,8 +473,8 @@ button.hero-button {
 }
 .footer-logo {
   margin-left: 15px;
-  margin-right: 120px;
   flex-direction: column;
+  margin-right: 120px;
 }
 .footer-logo-link {
   display: inline-block;
@@ -529,7 +529,7 @@ button.hero-button {
   fill: #f4f4fd;
 }
 .social-icon-link:hover,
-.social-icon-l.social-icon-link {
+.social-icon-link {
   background-color: #31d0aa;
 }
 .footer-icon-text {
