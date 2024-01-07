@@ -342,7 +342,7 @@ button.hero-button {
   border-radius: 50%;
   background-color: #4d5ae5;
   fill: #f4f4fd;
-  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .socials-link:hover,
 .socials-link:focus {
@@ -516,7 +516,6 @@ button.hero-button {
 .social-icon-item {
   width: 40px;
   height: 40px;
-  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-icon-link {
   display: flex;
@@ -526,10 +525,11 @@ button.hero-button {
   height: 100%;
   border-radius: 50%;
   background-color: #4d5ae5;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   fill: #f4f4fd;
 }
 .social-icon-link:hover,
-.social-icon-link:focus {
+.social-icon-l.social-icon-link {
   background-color: #31d0aa;
 }
 .footer-icon-text {
