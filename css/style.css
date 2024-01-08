@@ -33,6 +33,7 @@ img {
 .container {
   width: 1158px;
   margin: 0 auto;
+  padding: 0 15px;
 }
 .header-container {
   width: 1158px;
@@ -122,6 +123,7 @@ img {
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/people-office.jpg);
+  margin: 0 auto;
 }
 .container {
   width: 1158px;
@@ -324,7 +326,6 @@ button.hero-button {
   justify-content: center;
   gap: 24px;
   padding-top: 8px;
-  opacity: 0;
 }
 .socials:hover {
   opacity: 1;
@@ -427,7 +428,7 @@ button.hero-button {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
-.portfolio-wrapper:hover .overlay {
+.portfolio-item:hover .overlay {
   transform: translateY(0);
 }
 .portfolio-item-card {
